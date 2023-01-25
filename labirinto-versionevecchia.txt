@@ -1,0 +1,26 @@
+//	public boolean risolvi(int start) {
+//		trovataSoluzione=false;
+//		LinkedList<Integer> percorso= new LinkedList<>();
+//		percorso.add(start);
+//		trovaPercorso(start,percorso);
+//		return trovataSoluzione;
+//	}
+//	
+//	private void trovaPercorso( int stanza, LinkedList<Integer> percorso) {
+//		for(int i: mappa[stanza]) {
+//			if(i!=0 && !percorso.contains(i)) { //se i non è una porta murata
+//				percorso.addLast(i);
+//				if(i==9999) {
+//					System.out.println(percorso);
+//					trovataSoluzione=true;
+//				}else {
+//					trovaPercorso(i,percorso);
+//				
+//				percorso.removeLast();
+//			}
+//			}
+//		}
+//	}
+
+
+//			if(!linea.matches("\\d+([\\-\\$]\\d){4}")) return false;	

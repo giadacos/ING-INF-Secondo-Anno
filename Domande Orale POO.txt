@@ -1,0 +1,74 @@
+[(\\d+|[xX]|\\d*[xX][\\^\\d+]\\)[\\+\\-]]+".  REGEX POLINOMIO	F
+-categorie file che conosciamo				F
+-le 3 operazioni random access file			F
+-se ho un file di interi tipati(rappresentati con complemento a 2)
+ come si può leggere?con che classi?	F
+-convertire algoritmo ricorsivo in versione iterativa		F
+-rimozione heap					F
+-costo aggiunto rimozione/heap          			F
+-heapsort						F
+-complessità heap sort				F
+-ordinamento valore i crescenti in un file
+-creazione inner class nodo(da definire static)		F
+-add listaconcatenata				F
+-interfaccia funzionale				F
+-reference method					F
+-visita breathfirst e deapthfirst su un grafo
+-visita PostOrder di qualunque albero         		F
+-post order in veste iterativa				F
+-espressione aritmetico postfissa, come valutarla		F
+-rpn						F
+-Object File					F
+-Merge Sort non della classe array ma su oggetti generici
+-Complessita Merge Sort				F
+-Lista Ordinata Concatenata				F
+-inserimento in ordine sulla listaConcatenata in modo iterativo
+-Cosa succede quando facciamo una new di una classe	F
+-differenza tra tipo statico e dinamico di un oggetto		F
+-Oggetto polimorfo					F
+-listaCocatenataOrdinata(metodo compatta)
+-esericizio compatta una linkedlist
+-rimuovere elemento da file
+-se altezza h, quale è il numero massimo di nodi ? 2^h+1	F
+-preorder metodi illustrazioni su albero			F
+-permutazioni
+-disegnare albero					F
+-disegnare heap successione numeri			F
+-visita a livelli heap					F
+-rimozione elemento nell'heap(non il minimo)		F
+-add su ListaRec					F
+cose che mi ha chiesto:
+regex espressione rpn
+pop e push di StackConcatenato
+chiede tanto visitaperLivelli abr, classe Recursion, merge sort iterativo
+DOMANDE ORALE 24 01 2023:
+-altezza abr
+-regex rpn
+-metodo potenza (a^n) con visione logaritmica (n/2)
+-genera heap da 12 -4 3 7 -2 15 8 -5
+-costo aggiunta e rimozione da heap
+-add heap
+-catena dei costruttori
+-quando un metodo è generico
+-ricorsione
+-ricerca binaria
+-heapSort
+-listIterator
+-insertion sort con list iterator
+-raf
+-se ho un file di interi tipati come si può leggere e ordinare
+-hash set
+-ricorsione permutazioni
+-raf scambio numero
+-add albero numero
+-merge sort complessità
+-lista rec
+-remove lista rec da una lista che ammette duplicati
+-lista iteratore
+-listiterator lista concatenata
+-determinante
+-palindroma ricorsiva
+-add lista concatenata
+-matrix, determinante con gauss (se lo chiede a me i'm done)
+-visita simmetrica ite e ricorsiva
+- remove abr
